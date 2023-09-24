@@ -1,0 +1,74 @@
+  // 145 Number
+  // 'asdgf' String
+  // {
+  //   name: 'Alex'
+  // }
+  // [] - object
+  // class = function
+  // typeof 'asdf'
+  // undefined
+
+
+  // typeof 10n; // bigint"
+
+
+  // dynamic type data site 200kb 600kb 0.1
+  
+  // let a = 120
+  // a = 'hello'
+
+  // let a = -128-128  2 baita
+  // let b = 3 8 bait
+
+
+let a = [6]
+
+
+// let a = new Array(4)
+
+
+
+  // Unity web p Javascript WebGL Tree.js 3d грані (скачуєм 20 000 500 000)
+
+      // 'cow'.startsWith
+      // '56456'.slice()
+
+
+          //     sdfg
+    //    - - - -
+    //   |       |
+    // 0 |  40   | 100
+    //   |       |
+    //    - - - -
+    //    $#%%#$
+
+      // bot edit message 1/2s 
+
+
+let a;
+null undefined | display: none
+
+{}
+slice()
+null undefined 
+https:google.com og open graph
+input.value
+h1.textContent
+for (let i = 0; i < 100; i++) { }
+[1, 3, 5, 7].length
+'sadfsa'.length 
+width
+height
+h1.classList.add('hello')
+h1.style.fontSize = '100px';
+[1, 2, 3].push(4)
+
+
+
+
+[{ text: `location `, request_location: true }],
+[{ text: `contact `, request_contact: true }],
+
+env
+enviroment середовище
+віртуальне середовище
