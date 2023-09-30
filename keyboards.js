@@ -64,7 +64,7 @@ class Keyboard {
           [{ text: "Вліво", callback_data: "buy-" + id }],
           [{ text: "Купити", callback_data: "buy-" + id }],
           [{ text: "В обране", callback_data: "favorites-" + id }],
-          [{ text: "Details", url: "https://google.com" }],
+          [{ text: "Деталі", url: "https://google.com" }],
           [{ text: "Написати в чат", callback_data: "chat-" + id }],
         ],
         resize_keyboard: true,
